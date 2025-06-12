@@ -1,0 +1,463 @@
+proxies:
+    - alterId: 2
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8美国1 | ⬇️ 1.5MB/s"
+      network: ws
+      port: 22643
+      server: tk.hzlt.tkddns.xyz
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+      ws-headers:
+        Host: zxjp-c.tkong.cc
+      ws-path: /
+    - cipher: aes-256-cfb
+      name: "\U0001F1F0\U0001F1F7韩国1 | ⬇️ 3.7MB/s"
+      password: qwerREWQ@@
+      port: 11171
+      server: 210.217.18.70
+      type: ss
+      udp: true
+    - client-fingerprint: firefox
+      name: "\U0001F300其他1-VN | ⬇️ 6.8MB/s"
+      port: 34045
+      reality-opts:
+        public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+        short-id: e8ab71d0
+      server: 103.12.77.78
+      servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    - client-fingerprint: firefox
+      name: "\U0001F300其他2-VN | ⬇️ 6.8MB/s"
+      port: 34045
+      reality-opts:
+        public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+        short-id: e8ab71d0
+      server: 103.81.85.15
+      servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    - client-fingerprint: firefox
+      name: "\U0001F300其他3-VN | ⬇️ 4.8MB/s"
+      port: 34045
+      reality-opts:
+        public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+        short-id: e8ab71d0
+      server: 59.153.217.57
+      servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    - client-fingerprint: chrome
+      name: "\U0001F1F8\U0001F1EC新加坡1 | ⬇️ 7.4MB/s"
+      network: ws
+      port: 443
+      server: 168.138.181.208
+      servername: sgp.rtot.me
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0783b1b9-5d8b-4d03-adc3-b050acc71a29
+      ws-opts:
+        headers:
+            Host: sgp.rtot.me
+        path: /bing
+    - client-fingerprint: firefox
+      name: "\U0001F300其他4-VN | ⬇️ 7.0MB/s"
+      port: 34045
+      reality-opts:
+        public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+        short-id: e8ab71d0
+      server: 103.81.86.9
+      servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    - name: "\U0001F300其他5-未识别 | ⬇️ 1.5MB/s"
+      network: ws
+      port: 443
+      server: 160.16.76.226
+      servername: steep.skyfigure.top
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63601f9f-7c67-4952-919a-1ef802b5a7ec
+      ws-opts:
+        headers:
+            Host: steep.skyfigure.top
+        path: "/Telegram\U0001F1E8\U0001F1F3 @pgkj666 /?ed=2560"
+    - alterId: 0
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8美国2 | ⬇️ 8.7MB/s"
+      network: ws
+      port: 443
+      server: cf.fovi.tk
+      servername: cf.fovi.tk
+      skip-cert-verify: false
+      tls: true
+      type: vmess
+      uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa
+      ws-opts:
+        headers:
+            Host: foxlux.fovi.tk
+        path: /eisasqa
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1EB\U0001F1F7法国1 | ⬇️ 8.0MB/s"
+      obfs: ""
+      obfs-password: ""
+      password: dongtaiwang.com
+      port: "31180"
+      server: 51.159.111.32
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria2
+      up: ""
+    - alpn:
+        - h3
+      auth_str: dongtaiwang.com
+      down: 1000 Mbps
+      name: "\U0001F1FA\U0001F1F8美国3 | ⬇️ 14.3MB/s"
+      port: 11512
+      server: 108.181.24.77
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      udp: true
+      up: 1000 Mbps
+    - alpn:
+        - h3
+      auth_str: dongtaiwang.com
+      down: 1000 Mbps
+      name: "\U0001F1FA\U0001F1F8美国4 | ⬇️ 7.6MB/s"
+      port: 17549
+      server: 208.87.243.151
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria
+      up: 1000 Mbps
+    - alpn:
+        - h3
+      auth_str: dongtaiwang.com
+      down: 1000 Mbps
+      name: "\U0001F1F7\U0001F1FA俄罗斯1 | ⬇️ 9.7MB/s"
+      port: 62003
+      server: 176.32.35.226
+      servername: apple.com
+      skip-cert-verify: true
+      tls: true
+      type: hysteria
+      up: 1000 Mbps
+    - alpn:
+        - h3
+      auth-str: dongtaiwang.com
+      auth_str: dongtaiwang.com
+      delay: 1086
+      down: "100"
+      name: "\U0001F1EB\U0001F1F7法国2 | ⬇️ 8.9MB/s"
+      obfs: ""
+      port: 15010
+      protocol: ""
+      server: 195.154.200.40
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      up: "100"
+    - name: "\U0001F1F9\U0001F1FC台湾1 | ⬇️ 1.4MB/s"
+      network: ws
+      port: 443
+      server: 23.94.240.147
+      servername: edmx.ambercc.filegear-sg.me
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+      ws-opts:
+        headers:
+            host: edmx.ambercc.filegear-sg.me
+        path: /?ed=2560&proxyip=ts.hpc.tw
+    - name: "\U0001F1F9\U0001F1FC台湾2 | ⬇️ 3.2MB/s"
+      network: ws
+      port: 2083
+      server: 27.50.48.189
+      servername: edmx.ambercc.filegear-sg.me
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+      ws-opts:
+        headers:
+            host: edmx.ambercc.filegear-sg.me
+        path: /?ed=2560&proxyip=ts.hpc.tw
+    - name: "\U0001F300其他6-未识别 | ⬇️ 2.7MB/s"
+      network: ws
+      port: 4001
+      server: 45.154.98.230
+      servername: az.ylka.dpdns.org
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+      ws-opts:
+        headers:
+            host: az.ylka.dpdns.org
+        path: /?ed=2560
+    - client-fingerprint: firefox
+      name: "\U0001F300其他7-VN | ⬇️ 3.8MB/s"
+      network: tcp
+      port: 34045
+      reality-opts:
+        public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+        short-id: e8ab71d0
+      server: 160.250.65.132
+      servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+      tls: true
+      type: vless
+      udp: true
+      uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    - name: "\U0001F1F9\U0001F1FC台湾3 | ⬇️ 1.2MB/s"
+      network: ws
+      port: 443
+      server: 176.105.253.98
+      servername: edmx.ambercc.filegear-sg.me
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+      ws-opts:
+        headers:
+            host: edmx.ambercc.filegear-sg.me
+        path: /?ed=2560&proxyip=ts.hpc.tw
+    - name: "\U0001F300其他8-未识别 | ⬇️ 1.7MB/s"
+      network: ws
+      port: 2053
+      server: 129.159.132.0
+      servername: az.ylka.dpdns.org
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      udp: true
+      uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+      ws-opts:
+        headers:
+            host: az.ylka.dpdns.org
+        path: /?ed=2560
+    - auth: dongtaiwang.com
+      name: "\U0001F1F3\U0001F1F1荷兰1 | ⬇️ 1.5MB/s"
+      password: dongtaiwang.com
+      port: 4489
+      server: 51.158.205.126
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria2
+    - auth: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+      name: "\U0001F1F8\U0001F1EC新加坡2 | ⬇️ 14.5MB/s"
+      password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+      port: 10086
+      server: asg.pagate.top
+      skip-cert-verify: false
+      sni: asg.pagate.top
+      type: hysteria2
+    - name: "\U0001F1ED\U0001F1F0香港1 | ⬇️ 16.7MB/s"
+      password: <password>
+      port: 443
+      server: 46977950-sxc9s0-t1bnjq-1krtb.hkt2.cdnhuawei.com
+      tls: true
+      type: socks5
+      username: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+    - auth: aaf7a87d-ef38-433e-b86e-07ddea14fac4
+      name: "\U0001F1FA\U0001F1F8美国5 | ⬇️ 9.0MB/s"
+      password: aaf7a87d-ef38-433e-b86e-07ddea14fac4
+      port: 55462
+      server: 154.21.206.251
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria2
+    - name: "\U0001F1ED\U0001F1F0香港2 | ⬇️ 16.5MB/s"
+      password: <password>
+      port: 443
+      server: acc485af-sx6ps0-t1bnjq-1krtb.hkt2.cdnhuawei.com
+      tls: true
+      type: socks5
+      username: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+    - fast-open: true
+      name: "\U0001F1F7\U0001F1FA俄罗斯2 | ⬇️ 5.7MB/s"
+      password: dongtaiwang.com
+      port: 30033
+      server: 46.29.163.171
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria2
+    - auth: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+      name: "\U0001F1FA\U0001F1F8美国6 | ⬇️ 10.5MB/s"
+      password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+      port: 10086
+      server: aus.pagate.top
+      skip-cert-verify: false
+      sni: aus.pagate.top
+      type: hysteria2
+    - name: "\U0001F1ED\U0001F1F0香港3 | ⬇️ 16.0MB/s"
+      password: <password>
+      port: 443
+      server: da63c714-sxaf40-t1bnjq-1krtb.hkt2.cdnhuawei.com
+      tls: true
+      type: socks5
+      username: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+    - alterId: 0
+      cipher: chacha20-ietf-poly1305
+      name: "\U0001F1ED\U0001F1F0香港4 | ⬇️ 9.7MB/s"
+      password: 07a426bb-b7c9-4eb9-830d-d109e62083e9
+      port: 25601
+      server: 120.253.242.230
+      skip-cert-verify: true
+      tls: true
+      type: ss
+    - fast-open: true
+      name: "\U0001F1F7\U0001F1FA俄罗斯3 | ⬇️ 11.4MB/s"
+      password: dongtaiwang.com
+      port: 50850
+      server: 45.129.2.108
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria2
+    - delay: 614
+      fast-open: true
+      name: "\U0001F1F7\U0001F1FA俄罗斯4 | ⬇️ 1.9MB/s"
+      password: dongtaiwang.com
+      port: 30033
+      server: 46.17.41.217
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria2
+    - alpn:
+        - h3
+      auth-str: dongtaiwang.com
+      auth_str: dongtaiwang.com
+      delay: 2795
+      down: 100
+      name: "\U0001F1F3\U0001F1F1荷兰2 | ⬇️ 10.6MB/s"
+      port: 14241
+      protocol: udp
+      server: 51.159.226.1
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      udp: true
+      up: 100
+    - alpn:
+        - h3
+      auth-str: dongtaiwang.com
+      auth_str: dongtaiwang.com
+      delay: 1831
+      down: "100"
+      name: "\U0001F1FA\U0001F1F8美国7 | ⬇️ 11.0MB/s"
+      obfs: ""
+      port: 40528
+      protocol: ""
+      server: 208.87.243.187
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      up: "100"
+    - alpn:
+        - h3
+      auth-str: dongtaiwang.com
+      delay: 2641
+      down: "100"
+      name: "\U0001F1FA\U0001F1F8美国8 | ⬇️ 11.4MB/s"
+      port: 36194
+      protocol: udp
+      server: 198.40.52.27
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      udp: "true"
+      up: "100"
+    - alpn:
+        - h2
+        - http/1.1
+      client-fingerprint: chrome
+      name: "\U0001F1EE\U0001F1F9意大利1 | ⬇️ 15.9MB/s"
+      network: ws
+      port: "443"
+      server: ns4.esfahansiman.com
+      servername: WWW.pegAh-Esfahan.De.
+      tls: true
+      type: vless
+      udp: true
+      uuid: 07c846af-4106-4790-9f83-10994c9e03d4
+      ws-opts:
+        headers:
+            Host: WWW.pegAh-Esfahan.De.
+            User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/10.0.649.0 Safari/534.17
+        path: TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config
+      xudp: true
+    - name: "\U0001F1E9\U0001F1EA德国1 | ⬇️ 4.2MB/s"
+      network: ws
+      port: "8880"
+      server: Join.EXPRESSVPN_420.cloud1.hosting-ip.com
+      type: vless
+      udp: true
+      uuid: 3f43aa52-8958-467c-897c-488cb0bcfb47
+      ws-opts:
+        headers:
+            Host: dE-sNaPp.MaStErSrV.iR.aCaDeMiGrOuP.Ir.
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
+        path: EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420?ed=2048
+      xudp: true
+    - client-fingerprint: chrome
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "\U0001F300其他9-TR | ⬇️ 2.0MB/s"
+      network: tcp
+      port: "8295"
+      reality-opts:
+        public-key: jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s
+        short-id: ""
+      server: cls.zibanamas.ir
+      servername: refersion.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: a2e4c95a-9257-4833-81ca-2c4e634a521a
+      xudp: true
+    - alpn:
+        - http/1.1
+      client-fingerprint: chrome
+      name: "\U0001F1E9\U0001F1EA德国2 | ⬇️ 14.2MB/s"
+      network: tcp
+      password: telegram-id-directvpn
+      port: "22223"
+      server: 3.126.104.194
+      skip-cert-verify: false
+      sni: trojan.burgerip.co.uk
+      type: trojan
+      udp: true
+    - cipher: aes-256-cfb
+      name: "\U0001F300其他10-MD | ⬇️ 15.3MB/s"
+      password: f8f7aCzcPKbsF8p3
+      port: "989"
+      server: 185.153.197.5
+      type: ss
+      udp: true
